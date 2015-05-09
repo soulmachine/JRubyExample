@@ -7,6 +7,7 @@ This is a simple example to execute Ruby scripts from Java.
 _See also:_ 
 
 * [Jython Example](https://github.com/soulmachine/JythonExample)
+* [Jparsec Example](https://github.com/soulmachine/JparsecExample)
 * [Scalding Example Project](https://github.com/soulmachine/scalding-example-project)
 * [Spark Example Project](https://github.com/soulmachine/spark-example-project)
 
